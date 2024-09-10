@@ -24,7 +24,7 @@ sudo apt install git
 ```
  wget https://dlcdn.apache.org/maven/maven-3/3.9.9/binaries/apache-maven-3.9.9-bin.tar.gz
 ```
-## 4. untar thr file
+## 4. untar the file
 
 ```
  tar xzvf apache-maven-3.9.9-bin.tar.gz
@@ -76,7 +76,10 @@ the dependencies locally are found in the home folder in .m2/repository
 what is the pre-requisite to build an artifact in maven we need to do confuguration in the pom.xml file and the setting.xml file
 
 > once the artifact have been build you can run the application with the command === java -jar <Name of jar file>
-> java -jar target/java-maven-app-1.0-snapshot.jar
+
+```
+java -jar target/java-maven-app-1.0-snapshot.jar
+```
 
 What is an artifacts: it is the application built into a single file the artifact can have different format(jar,war,zip,tar file)
 
