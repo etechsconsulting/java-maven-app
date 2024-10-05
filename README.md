@@ -1,12 +1,12 @@
 # MAVEN BUILD TOOL
-## maven is written in xml so Maven uses xml but Gradle uses Groovy language both tool s have command line tool and commands to execute the tasks
+### maven is written in xml so Maven uses xml but Gradle uses Groovy language both tool s have command line tool and commands to execute the tasks
 
 for java code we have Maven and Gradle
 This build tools install the dependencies and 
 compile and compress code to reduce the seize
 
 BUILDING ARTIFACT
-## To build an artifact we need to install the following in the virtual machine or server:
+### To build an artifact we need to install the following in the virtual machine or server:
 
 ## 1. Update the apt repo: 
 ```
